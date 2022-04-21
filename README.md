@@ -1,4 +1,5 @@
-##This script checks if your password contains at least:
+## This script checks if your password contains at least: ##
+
 1. 8 chars lenght
 2. One upper letter
 3. One lower letter
